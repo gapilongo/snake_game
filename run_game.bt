@@ -1,0 +1,7 @@
+@echo off
+echo Installing pygame if not already installed...
+pip install pygame
+echo.
+echo Starting Snake Game...
+python snake_game.py
+pause
